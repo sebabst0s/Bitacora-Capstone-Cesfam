@@ -6,10 +6,10 @@ Proyecto capstone enfocado en automatizar el proceso administrativo de reagendam
 
 | Nombre | Rol |
 |---|---|
-| Sebastián Muñoz | No definido |
-| Juan Jara | No definido |
-| Alexandra Riquelme | No definido |
-| Benjamín Jordan | No definido |
+| Sebastián Muñoz | Encargado Tecnico |
+| Juan Jara | Encargado Comunicacion |
+| Alexandra Riquelme | Encargada Documentacion |
+| Benjamín Jordan | Encargado de Datos |
 
 ## 🎯 Desafío
 
