@@ -25,6 +25,6 @@ Automatizar el proceso de reagendamiento de horas médicas en CESFAM Providencia
 - [Sesion 06 - Semana de receso](sesiones/S06.md)
 - [Sesion 07 - Visita Hub](sesiones/S07.md)
 - [Sesion 08 - Reflexión con los datos del CESFAM](sesiones/S08.md)
-- [Sesion 09 - Visita Hub](sesiones/S09.md)
+- [Sesion 09 - Nuevas dudas y consultas al CESFAM](sesiones/S09.md)
 
 
