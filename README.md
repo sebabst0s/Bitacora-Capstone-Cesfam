@@ -18,7 +18,7 @@ Automatizar el proceso de reagendamiento de horas médicas en CESFAM Providencia
 ## 📚 Índice de sesiones
 
 - [Sesion 01 - Introduccion](sesiones/S01.md)
-- [Sesion 02 - Visita Hub](sesiones/S02.md)
+- [Sesion 02 - Equipos, desafío y bitácora](sesiones/S02.md)
 - [Sesión 03 — Equipo, contrato y desafío](sesiones/S03.md)
 - [Sesion 04 - Visita Hub](sesiones/S04.md)
 - [Sesion 05- Donde estamos](sesiones/S05.md)
